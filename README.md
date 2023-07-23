@@ -1,7 +1,1 @@
-Header
-
-About me
-
-Languages and tools
-
-Contact me
+I am a QA Engineer
