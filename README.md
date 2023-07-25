@@ -15,8 +15,8 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=14D51A)
 
 ### Contact me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0DA9E8)](https://t.me/nokiggb)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=0DA9E8)](http://linkedin.com/in/inna-shkhagosheva)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0DA9E8)](http://linkedin.com/in/inna-shkhagosheva)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=0DA9E8)](https://t.me/nokiggb)
 [![Email](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=BF1414 )](mailto:innaggb@gmail.con)
 
 [![Inna GGB's GitHub stats](https://github-readme-stats.vercel.app/api?username=innaggb&show_icons=true&theme=tokyonight)](https://github.com/innaggb/github-readme-stats)
