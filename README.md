@@ -17,4 +17,5 @@
 ### Contact me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0DA9E8)](https://t.me/nokiggb)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=0DA9E8)](http://linkedin.com/in/inna-shkhagosheva)
+[![Email](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=BF1414 )](mailto:innaggb@gmail.con)
 
