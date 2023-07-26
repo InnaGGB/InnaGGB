@@ -19,5 +19,9 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=0DA9E8)](https://t.me/nokiggb)
 [![Email](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=BF1414 )](mailto:innaggb@gmail.con)
 
+### Test documentation
+![Postman challenge - 15 days of Postman for testers](https://www.postman.com/interstellar-water-775154/workspace/qa-world)
+
+
 [![Inna GGB's GitHub stats](https://github-readme-stats.vercel.app/api?username=innaggb&show_icons=true&theme=tokyonight)](https://github.com/innaggb/github-readme-stats)
 
