@@ -27,6 +27,11 @@
 * [Postman challenge - 15 days of Postman for testers](https://www.postman.com/interstellar-water-775154/workspace/qa-world)
 * [uTest portfolio](https://docs.google.com/spreadsheets/d/1qDdNjZzwLNa37XrhYpV_oH4_A0-bufXyD-1HFMuqRec/edit#gid=0)
 
+### Certificates
+* [15 days of Postman - for testers](https://badgr.com/public/assertions/6CTYQKAFRXKGm-AluyWcFQ)
+* [Automating testing with Selenium and Python](https://stepik.org/cert/1499379)
+* [Software Testing: Preparation for the ISTQB](https://stepik.org/cert/184578)
+* [SQL Fundamentals](https://www.sololearn.com/Certificate/CT-NTXFPYET/pdf)
 
 [![Inna GGB's GitHub stats](https://github-readme-stats.vercel.app/api?username=innaggb&show_icons=true&theme=tokyonight)](https://github.com/innaggb/github-readme-stats)
 
