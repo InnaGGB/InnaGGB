@@ -19,9 +19,13 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=0DA9E8)](https://t.me/nokiggb)
 [![Email](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=BF1414 )](mailto:innaggb@gmail.con)
 
-### Test documentation
+### My resume 
+[Link to my resume](https://drive.google.com/file/d/12s6q6tTqcsS8pEm-jOa6IEQhhqgubV8Y/view?usp=drive_link)
 
+### Test documentation / tool practice
+* [Test documentation](https://drive.google.com/drive/folders/1l_TmoXwdnFbcP9Z19nWRoeeQzj3t-P6U) 
 * [Postman challenge - 15 days of Postman for testers](https://www.postman.com/interstellar-water-775154/workspace/qa-world)
+* [uTest portfolio](https://docs.google.com/spreadsheets/d/1qDdNjZzwLNa37XrhYpV_oH4_A0-bufXyD-1HFMuqRec/edit#gid=0)
 
 
 [![Inna GGB's GitHub stats](https://github-readme-stats.vercel.app/api?username=innaggb&show_icons=true&theme=tokyonight)](https://github.com/innaggb/github-readme-stats)
