@@ -33,5 +33,5 @@
 * [Software Testing: Preparation for the ISTQB](https://stepik.org/cert/184578)
 * [SQL Fundamentals](https://www.sololearn.com/Certificate/CT-NTXFPYET/pdf)
 
-[![Inna GGB's GitHub stats](https://github-readme-stats.vercel.app/api?username=innaggb&show_icons=true&theme=tokyonight)](https://github.com/innaggb/github-readme-stats)
+[![Inna GGB's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=innaggb&show_icons=true&theme=tokyonight)](https://github.com/innaggb/github-readme-stats)
 
