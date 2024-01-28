@@ -13,7 +13,7 @@
 ![Charles Proxy](https://img.shields.io/badge/-CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=35CC04)
 ![Cypress](https://img.shields.io/badge/-Cypress-090909?style=for-the-badge&logo=Cypress&logoColor=10D3BE)
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=14D51A)
-![GitLab](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F373625%2Fgitlab&psig=AOvVaw0OkL7avEz0xa_TXcbx0WJS&ust=1706551581321000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiW2JnWgIQDFQAAAAAdAAAAABAD)
+![GitLab](https://img.shields.io/badge/-GitLab-090909?style=for-the-badge&logo=GitLab&logoColor=F2980D)
 
 ### Contact me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0DA9E8)](http://linkedin.com/in/inna-shkhagosheva)
@@ -21,7 +21,7 @@
 [![Email](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=BF1414 )](mailto:innaggb@gmail.con)
 
 ### My resume 
-[Link to my resume](https://drive.google.com/file/d/15pjSE5-CgXb4H2UNiqq_jAIb5j7CxZao/view?usp=sharing)
+[Link to my resume](https://drive.google.com/file/d/1d-lmUK96i6ZN7cLv80ueu_oIEvj1nqaj/view?usp=sharing)
 
 ### Test documentation / tool practice
 * [Test documentation](https://drive.google.com/drive/folders/1l_TmoXwdnFbcP9Z19nWRoeeQzj3t-P6U) 
