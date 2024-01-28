@@ -13,6 +13,7 @@
 ![Charles Proxy](https://img.shields.io/badge/-CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=35CC04)
 ![Cypress](https://img.shields.io/badge/-Cypress-090909?style=for-the-badge&logo=Cypress&logoColor=10D3BE)
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=14D51A)
+![GitLab](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F373625%2Fgitlab&psig=AOvVaw0OkL7avEz0xa_TXcbx0WJS&ust=1706551581321000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiW2JnWgIQDFQAAAAAdAAAAABAD)
 
 ### Contact me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0DA9E8)](http://linkedin.com/in/inna-shkhagosheva)
@@ -28,6 +29,7 @@
 * [uTest portfolio](https://docs.google.com/spreadsheets/d/1qDdNjZzwLNa37XrhYpV_oH4_A0-bufXyD-1HFMuqRec/edit#gid=0)
 
 ### Certificates
+* [CS50 - Introduction to Cybersecurity](https://cs50.harvard.edu/certificates/3b6d161d-8569-40b1-ba19-d6e9ce30a772)
 * [15 days of Postman - for testers](https://badgr.com/public/assertions/6CTYQKAFRXKGm-AluyWcFQ)
 * [Automating testing with Selenium and Python](https://stepik.org/cert/1499379)
 * [Software Testing: Preparation for the ISTQB](https://stepik.org/cert/184578)
