@@ -21,7 +21,7 @@
 [![Email](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=BF1414 )](mailto:innaggb@gmail.con)
 
 ### My resume 
-[Link to my resume](https://drive.google.com/file/d/1gqrqlliCARntNMzBzC9P3s-qUTb4AnSW/view?usp=sharing)
+[Link to my resume](https://drive.google.com/file/d/1TsIhjgh8CK3F2pdv1axM6EMTg4Cc7DpJ/view?usp=sharing)
 
 ### Test documentation / tool practice
 * [Test documentation](https://drive.google.com/drive/folders/1l_TmoXwdnFbcP9Z19nWRoeeQzj3t-P6U) 
