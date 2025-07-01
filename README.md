@@ -1,7 +1,7 @@
 ![Header](https://github.com/InnaGGB/InnaGGB/blob/main/assets/1690119808827.png)
 ## QA Engineer
 
-<!-- * ### TOOLS
+ ### TOOLS
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=0320A2)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=F2980D)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
@@ -13,7 +13,7 @@
 ![Charles Proxy](https://img.shields.io/badge/-CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=35CC04)
 ![Cypress](https://img.shields.io/badge/-Cypress-090909?style=for-the-badge&logo=Cypress&logoColor=10D3BE)
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=14D51A)
-![GitLab](https://img.shields.io/badge/-GitLab-090909?style=for-the-badge&logo=GitLab&logoColor=F2980D) -->
+![GitLab](https://img.shields.io/badge/-GitLab-090909?style=for-the-badge&logo=GitLab&logoColor=F2980D) 
 
 ### Contact me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0DA9E8)](http://linkedin.com/in/inna-shkhagosheva)
@@ -21,7 +21,7 @@
 [![Email](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=BF1414 )](mailto:innaggb@gmail.con)
 
 ### My resume 
-[Link to my resume](https://drive.google.com/file/d/1PEfFdm_zrP34lMizc7SU-mDgejdDgRP1/view?usp=sharing)
+[Link to my resume](https://drive.google.com/file/d/1-6km4yItlSW_ffz1_wKksaAi9_zUbJQW/view?usp=sharing)
 
 ### Test documentation / tool practice
 * [Test documentation](https://drive.google.com/drive/folders/1l_TmoXwdnFbcP9Z19nWRoeeQzj3t-P6U) 
