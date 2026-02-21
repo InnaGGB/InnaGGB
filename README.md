@@ -1,7 +1,7 @@
 ![Header](https://github.com/InnaGGB/InnaGGB/blob/main/assets/1690119808827.png)
 ## QA Engineer
 
-
+<!-- ### TOOLS
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=0320A2)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=F2980D)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
