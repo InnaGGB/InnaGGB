@@ -13,6 +13,7 @@
 ![Charles Proxy](https://img.shields.io/badge/-CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=35CC04)
 ![Cypress](https://img.shields.io/badge/-Cypress-090909?style=for-the-badge&logo=Cypress&logoColor=10D3BE)
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=14D51A)
+![Appium](https://img.shields.io/badge/-Appium-662d91?logo=appium&logoColor=black)
 ![GitLab](https://img.shields.io/badge/-GitLab-090909?style=for-the-badge&logo=GitLab&logoColor=F2980D) 
 
 ### Contact me
