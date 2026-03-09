@@ -15,7 +15,6 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=14D51A)
 ![Appium](https://img.shields.io/badge/-Appium-090909?style=for-the-badge&logo=Appium&logoColor=14D51A)
 ![GitLab](https://img.shields.io/badge/-GitLab-090909?style=for-the-badge&logo=GitLab&logoColor=F2980D) 
-![QA Stats](https://img.shields.io/badge/Status-Searching_for_Bugs-critical?style=flat-square&logo=bugcrowd)
 
 ### Contact me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0DA9E8)](http://linkedin.com/in/inna-shkhagosheva)
