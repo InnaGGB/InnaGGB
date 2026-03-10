@@ -1,4 +1,5 @@
 ![Header](https://github.com/InnaGGB/InnaGGB/blob/main/assets/ggb.png)
+> "Quality is not an act, it is a habit." 
 ## QA Engineer
 
 ### TOOLS
