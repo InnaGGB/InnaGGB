@@ -1,6 +1,6 @@
 ![Header](https://github.com/InnaGGB/InnaGGB/blob/main/assets/ggb.png)
 > "Quality is not an act, it is a habit." 
-## QA Engineer
+## Software QA Engineer
 
 ### TOOLS
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=0320A2)
